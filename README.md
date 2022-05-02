@@ -1,4 +1,4 @@
-# Boas vindas ao repositório do projeto ES6 Testes Unitários!
+# Boas vindas ao repositório do projeto Testes Unitários!
 
 O projeto teve como intuito criar testes unitários e funções, utilizando o conceito TDD (Desenvolvimento Orientado a testes).
 
