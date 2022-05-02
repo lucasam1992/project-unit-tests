@@ -2,7 +2,7 @@
 
 O projeto teve como intuito criar testes unitários e funções, utilizando o conceito TDD (Desenvolvimento Orientado a testes).
 
-## Tecnologias Utilizadas
+## Tecnologia Utilizada
 
 - NodeJS
 
